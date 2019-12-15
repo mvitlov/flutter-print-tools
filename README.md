@@ -16,8 +16,6 @@ Press `ctrl(cmd)+shift+i` to remove all print statements from your code.
 
 > **Tip**: Check out the settigns to configure the extension further.
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
-
 ## Keybindings
 
 These are the default keybindings, you can change them to suit your needs.
