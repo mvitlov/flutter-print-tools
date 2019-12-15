@@ -1,0 +1,6 @@
+out
+node_modules
+test
+.vscode-test/
+*.vsix
+src/test
