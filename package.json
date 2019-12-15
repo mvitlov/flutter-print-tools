@@ -7,7 +7,17 @@
     "url": "https://marinvitlov.com"
   },
   "galleryBanner": {
-    "color": ""
+    "color": "#02539a",
+    "theme": "dark"
+  },
+  "homepage": "https://marinvitlov.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mvitlov/flutter-print-tools"
+  },
+  "bugs": {
+    "email": "hello@marinvitlov.com",
+    "url": "https://github.com/mvitlov/flutter-print-tools/issues"
   },
   "displayName": "Flutter Print Tools",
   "description": "Easily add/remove print statements to your flutter code.",
